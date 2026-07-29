@@ -6,7 +6,7 @@
 - 🔄 Skilled in building CI/CD pipelines using Jenkins and GitHub Actions
 - 🏗️ Experienced in Infrastructure as Code (IaC) using Terraform
 - 🔐 Familiar with security and vulnerability scanning using Trivy and OWASP practices
-- 🐧 Proficient in Linux administration and Bash scripting
+- 🐧 Experience in Linux administration and Bash scripting
 - 📊 Experienced with monitoring and observability using Prometheus, Grafana, and CloudWatch
 - 📚 Continuously learning and exploring modern DevOps and Cloud technologies
 
