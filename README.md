@@ -89,3 +89,18 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anita-raut1525&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  💼 <b>Open to: DevOps Engineer | Cloud Engineer | Linux Administrator</b><br>
+  ⚡ <b>Available to join immediately</b> | 📍 <b>Open to Relocation</b>
+</p>
+
+<p align="center">
+  💼 <b>Open to: DevOps Engineer | Cloud Engineer | Linux Administrator</b><br>
+  ⚡ <b>Available to join immediately</b> | Open to Relocation</b>
+</p>
