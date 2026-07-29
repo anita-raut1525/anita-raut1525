@@ -100,7 +100,3 @@
   ⚡ <b>Available to join immediately</b> | 📍 <b>Open to Relocation</b>
 </p>
 
-<p align="center">
-  💼 <b>Open to: DevOps Engineer | Cloud Engineer | Linux Administrator</b><br>
-  ⚡ <b>Available to join immediately</b> | Open to Relocation</b>
-</p>
