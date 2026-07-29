@@ -79,16 +79,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anita-raut1525&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anita-raut1525&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anita-raut1525&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anita-raut1525&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anita-raut1525&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anita-raut1525&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
