@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-- 🚀 DevOps Engineer with 7 months of hands-on experience in DevOps and Cloud technologies and 6+ years of overall IT experience and looking for opportunity in Cloud/DevOps Role.
+- 🚀 DevOps Engineer hands-on experience in DevOps and Cloud technologies and 6+ years of overall IT experience and looking for opportunity in Cloud/DevOps Role.
 - ☁️ Experienced in AWS Cloud and Infrastructure
 - 🐳 Hands-on experience with Docker, Kubernetes, and Helm
 - 🔄 Skilled in building CI/CD pipelines using Jenkins and GitHub Actions
